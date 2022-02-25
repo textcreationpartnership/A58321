@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Recovery</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58321</idno>
+            <idno type="STC">Wing R654</idno>
+            <idno type="STC">ESTC R33518</idno>
+            <idno type="EEBO-CITATION">13470216</idno>
+            <idno type="OCLC">ocm 13470216</idno>
+            <idno type="VID">99681</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99681)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1555:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Recovery</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:99681:1"/>
+            <!-- PDF PAGE 6 -->
+            <head>THE RECOVERY.</head>
+            <lg>
+               <l>YEt once more <hi>Peace</hi> turns back her head, to ſmile,</l>
+               <l>And take ſome Pity on our ſtubborn <hi>Iſle;</hi>
+               </l>
+               <l>She, and her Siſter <hi>Truth</hi> now Hand in Hand,</l>
+               <l>Return to viſit our forſaken <hi>Land.</hi>
+               </l>
+               <lg>
+                  <l>I ſee, I ſee, O <hi>Albion!</hi> Bleſs the Sight!</l>
+                  <l>
+                     <hi>Truth</hi> long Eclips'd lift up her Sacred Light,</l>
+                  <l>And chaſe away the obſcene <hi>Birds of Night.</hi>
+                  </l>
+               </lg>
+               <l>Th'ill Boding <hi>Scrcech-Owl</hi> we ſo long did fear,</l>
+               <l>Hov'ring above us in our thick'ned Air;</l>
+               <l>Whoſe Fatal Note was never heard, but <hi>Death</hi>
+               </l>
+               <l>Follow'd th'<hi>Infernal Evidencing Breath.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hail <hi>Lovely Truth!</hi> Oh! Spread thy Rays Divine,</l>
+               <l>And bid thy Dawning Beams more fully Shine;</l>
+               <l>Already thy <hi>Glad Influence</hi> We find,</l>
+               <l>And all now ſee but They who will be blind:</l>
+               <l>They ſee whilſt Thou hold'ſt up thy <hi>Guiding Light,</hi>
+               </l>
+               <l>The Dangerous Errour of their <hi>Former Night;</hi>
+               </l>
+               <l>A <hi>Night,</hi> which all our Heaven did Invade,</l>
+               <l>By the Dire Skill of <hi>State Magicians</hi> made;</l>
+               <l>In a Dark Cell the <hi>Wayward Brothers</hi> met,</l>
+               <l>I'th'midſt a Chair there was for <hi>Satan</hi> ſet;</l>
+               <l>Which in his Abſence—</l>
+               <l>A little Wither'd Conjurer Supply'd,</l>
+               <l>And all his <hi>Imps</hi> drank Venom from his Side:</l>
+               <l>His Word was (then He out his <hi>Tap</hi> did pluck,)</l>
+               <l>
+                  <hi>Come my young Pugs of</hi> Treaſon, <hi>come and Suck:</hi>
+               </l>
+               <l>This Helliſh Rite perform'd, to work they go</l>
+               <l>To raiſe up Darkneſs from the Shades below;</l>
+               <lg>
+                  <l>Thick Miſts of <hi>Popular Fears and Jealouſies</hi>
+                  </l>
+                  <l>Did at their <hi>Necromaintick</hi> Call ariſe,</l>
+                  <l>And in <hi>Black Clouds</hi> hid the <hi>Britiſh Skies.</hi>
+                  </l>
+               </lg>
+               <l>Here firſt their unskil'd Spirits their Viſions play'd,</l>
+               <l>And learnt their <hi>Viſions</hi> to the <hi>Hatfield Maid:</hi>
+               </l>
+               <l>Here firſt were rais'd the wond'ring World to ſcar,</l>
+               <l>The Armies <hi>Harris</hi> Muſter'd in the Air.</l>
+               <l>But now the <hi>Charm</hi>'s Diſſolv'd, and <hi>England</hi>'s free</l>
+               <l>From the <hi>Enchantment,</hi> does it's Madneſs ſee;</l>
+               <l>Sees its vain Fears of that Expected Day,</l>
+               <l>No <hi>Royal Blood</hi> ſtain'd the Fifteenth of <hi>May:</hi>
+               </l>
+               <l>Prevailing <hi>Truth</hi> has open'd <hi>Britains</hi> Eyes,</l>
+               <l>And <hi>Folly</hi> ſeen, begins to make Her wiſe.</l>
+               <l>O let us then Unite, make <hi>Faction</hi> ceaſe,</l>
+               <l>Nor think <hi>Confuſion</hi> is the way to <hi>Peace;</hi>
+               </l>
+               <l>That <hi>Schiſm</hi> muſt the <hi>Churches</hi> Fall prevent,</l>
+               <l>Or breaking <hi>Law,</hi> ſecure the <hi>Government.</hi>
+               </l>
+               <l>Let <hi>Traytors</hi> to expected <hi>Tryal</hi> come,</l>
+               <l>And from the Mouth of <hi>Juſtice</hi> hear their Doom:</l>
+               <l>'Tis ſo, the <hi>Traytor</hi> comes, now, now maintain</l>
+               <l>
+                  <hi>Juſtice</hi> thy Seat, nor bear the <hi>Sword</hi> in vain.</l>
+               <l>Tho Hackney <hi>Speakers</hi> wou'd o're Law prevail,</l>
+               <l>And Conquer Thee by telling a falſe Tale;</l>
+               <l>Though <hi>Factious</hi> or <hi>Guilty Lords</hi> appear,</l>
+               <l>To blunt that <hi>Sword</hi> whoſe Edge they juſtly fear;</l>
+               <l>Tho <hi>Garter</hi> Blue, and <hi>Star</hi> the Court ſhould awe;</l>
+               <l>But oh! that <hi>Star</hi> does now its Beams withdraw,</l>
+               <l>Nor at the <hi>Tryal</hi> will its Light diſpence,</l>
+               <l>To cheriſh <hi>Treaſon</hi> with its Influence.</l>
+               <l>What then are they who from thy Hand would ſnatch</l>
+               <l>The <hi>blackest Traytor</hi> Hell did ever hatch?</l>
+               <lg>
+                  <l>When they but once that <hi>Horrid Paper</hi> ſee,</l>
+                  <l>Which does almoſt exceed in <hi>Villany,</hi>
+                  </l>
+                  <l>
+                     <hi>Satan,</hi> or his Vicegerent <hi>Sh—ry;</hi>
+                  </l>
+               </lg>
+               <l>Who in this Cauſe ſo much had never done,</l>
+               <l>But that he knew the ugly Brat his own.</l>
+               <l>Yet all in vain ſtrives <hi>Councellours</hi> and <hi>Lord,</hi>
+               </l>
+               <l>Revenging Goddeſs, ſpeak the Fatal Word;</l>
+               <l>Nor let <hi>Confeſſion</hi> turn aſide thy Blow,</l>
+               <l>But once ſtrike <hi>Rogues</hi> that own that they are ſo.</l>
+               <l>Had this been early done, t'had ſav'd the Guilt</l>
+               <l>Of ſo much <hi>Blood</hi> ſo Prodigally ſpilt;</l>
+               <l>While certan <hi>Villany</hi> did hurry hence,</l>
+               <l>To Unjuſt <hi>Death</hi> Suſpected <hi>Innocence.</hi>
+               </l>
+               <l>But <hi>Juſtice</hi> now in this Triumphant Scene,</l>
+               <l>Thy Shame does end, and <hi>Triumph</hi> does begin.</l>
+               <l>All this to thy Defender CHARLES is due,</l>
+               <l>Who now with Thee His <hi>Glory</hi> does renew;</l>
+               <l>Already with freſh Beams the <hi>Crown</hi> does ſhine,</l>
+               <l>
+                  <hi>Power</hi> Sacred grows, and <hi>Majesty</hi> Divine.</l>
+               <l>His Majeſty's <hi>Scepter</hi>'s in His Hand held faſt,</l>
+               <l>Nor like a <hi>Reed</hi> is bent witth every Blaſt:</l>
+               <l>Hold, hold Great <hi>CHARLES,</hi> this Reſolution hold,</l>
+               <l>And in thy own and Kingdoms Cauſe be Bold;</l>
+               <lg>
+                  <l>What ever of this Mighty <hi>Body,</hi> Thou</l>
+                  <l>The <hi>Head</hi> Reſolv'ſt, We thy <hi>Hands</hi> will do;</l>
+                  <l>Dare to be Happy, and to make Us ſo.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>How Great is <hi>Majeſty,</hi> and how Auguſt?</l>
+               <l>How <hi>God-like,</hi> when 'tis Reſolutely Juſt?</l>
+               <l>Then 'tis that Willing Subjects gladly meet,</l>
+               <l>To throw their Lives before their <hi>Monarchs</hi> Feet;</l>
+               <l>The 'tis their Fortunes they before him lay,</l>
+               <l>Sue to be <hi>Rul'd,</hi> and Glory to <hi>Obey.</hi>
+               </l>
+               <l>Such CHARLES is now thy State, and ſuch the Train</l>
+               <l>Of theſe that now Petition Thee to Reign;</l>
+               <l>See, even thy <hi>Prodigal Son</hi> does now deſire,</l>
+               <l>To leave his <hi>Husks,</hi> and <hi>Swine,</hi> and <hi>Wapping</hi> Mire,</l>
+               <l>In which ſo long He wallow'd up and down,</l>
+               <l>Known to each <hi>Dirty Kennel</hi> in the Town;</l>
+               <l>And to his Injur'd Father, and his Lord,</l>
+               <l>Would by his much wrong'd <hi>
+                     <g ref="char:V">Ʋ</g>nkle</hi> be reſtor'd:</l>
+               <l>How well have <hi>W—s, J—s,</hi> and <hi>W—n,</hi>
+               </l>
+               <l>
+                  <hi>B—h, G—d, T—y,</hi> their grat Duties done<g ref="char:punc">▪</g>
+               </l>
+               <l>How have They taught the People to Repent</l>
+               <l>Their Zeal for their great Idol <hi>P—t!</hi>
+               </l>
+               <l>How have They ſhewn the <hi>Arbitrary way</hi>
+               </l>
+               <l>That <hi>Monſter</hi> took to make Us all its Prey?</l>
+               <l>They to loſe all, claim'd more than was their Right,</l>
+               <l>And ſtretch'd their Power only to break it quite.</l>
+               <l>Theſe, Theſe are They who have True Service done,</l>
+               <l>Meriting their Sacred Favours from the Crown:</l>
+               <l>Theſe, Theſe have made a <hi>Diſſolution</hi> be,</l>
+               <l>Not <hi>Wiſdom</hi> only, but <hi>Neceſſity.</hi>
+               </l>
+               <l>Theſe thus remov'd, our <hi>Jealouſies</hi> and <hi>Fears,</hi>
+               </l>
+               <l>Were ever ſo Deſerving <hi>Penſioners!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Then</hi> Charles, <hi>ſince all things now conſpire to bleſs</hi>
+               </l>
+               <l>
+                  <hi>Thy Peaceful Age with</hi> Conqueſt <hi>and</hi> Succeſs,</l>
+               <l>
+                  <hi>Begin, Reſolve, and Venture to be Great,</hi>
+               </l>
+               <l>
+                  <hi>Nor overthrow theſe Vaſt Deſigns of Fate:</hi>
+               </l>
+               <l>
+                  <hi>Begin at home, Purge thine own Houſe, and free</hi>
+               </l>
+               <l>
+                  <hi>From</hi> Villains Tongues <hi>the Ears of</hi> Majeſty;</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Falſe</hi> P—s <hi>from the</hi> Bed-chamber <hi>Diſcard,</hi>
+               </l>
+               <l>
+                  <hi>Let Catch-pole</hi> Br—s <hi>thy</hi> Court <hi>be bar'd,</hi>
+               </l>
+               <l>
+                  <hi>Nor leave one Factious</hi> R—l <hi>in the</hi> Guard.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
